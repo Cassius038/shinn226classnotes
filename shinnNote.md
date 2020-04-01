@@ -6,3 +6,4 @@ NET 226 Notes 3/31/2020
 3. Name repository, add description, and set either public or private. 
 4. Click create repository
 5. Download github desktop app or click on the link to open the web browser
+There are more tests 8:08
